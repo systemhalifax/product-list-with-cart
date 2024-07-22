@@ -31,8 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://systemhalifax.github.io/product-list-with-cart/](https://systemhalifax.github.io/product-list-with-cart/)
 
 ## My process
 
@@ -44,7 +43,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Reinhard Kent](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@systemhalifax](https://www.frontendmentor.io/profile/systemhalifax)
