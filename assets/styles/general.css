@@ -1,0 +1,10 @@
+body {
+  font-family: 'RedHatText', sans-serif;
+  background-color: hsl(13, 31%, 94%);
+  color: hsl(14, 65%, 9%);
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
